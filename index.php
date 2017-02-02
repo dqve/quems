@@ -1,3 +1,3 @@
 <?php
-header('Location: '.$uri.'/aboutme/');
+header('Location: '.$uri.'/qms/');
 ?>
